@@ -1,19 +1,9 @@
-# Hawkerbuddy
-HawkerBudyy App 
+HAWKERBUDDY
 
-Level of achievement: 
+By WANG SHAOFENG and TEO WEI DE
 
-Project Scope: 
+Code Base https://github.com/HawkerBuddy/TeamHawkerBuddy
 
+Video Link https://drive.google.com/file/d/1LqIVDHyfKiEKNj-JiRdDGBvq-TX6uQ-Q/view?usp=sharing
 
-Milestone 1 (ideation): 
-
-Movtivation: 
-
-Proposed core features: 
-
-User Stories: 
-
-Design and plan: 
-
-
+Page Pictures https://drive.google.com/drive/folders/1mH9jsNK5b53w1THo8QyjH-HQrsf85PST?usp=share_link
